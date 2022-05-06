@@ -10,7 +10,7 @@ function App() {
             <Login/>
           }
         />
-        <Route path="/" 
+        <Route path="/dashboard" 
           element={
             <Dashboard/>
           }
